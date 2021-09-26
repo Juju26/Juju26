@@ -28,14 +28,14 @@
 
 <p align="center">
     <a href="https://github.com/Juju26/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Juju's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Juju26&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Juju's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Juju26&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="460px" height="250px"/>
     </a>
 </p>
 
   <br/>
-   <p><a href="https://github.com/Juju26/github-readme-stats" align="left" ><img alt="Juju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juju26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width='420px' height="250px"/></a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Juju26/github-readme-stats" align="right"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="420px" height="250px"/></a></p>
+   <p align="center"><a href="https://github.com/Juju26/github-readme-stats" align="left" ><img alt="Juju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juju26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width='460px' height="250px"/></a></p>
+  
+  <p align="center"><a href="https://github.com/Juju26/github-readme-stats" align="right"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="460px" height="250px"/></a></p>
   <br/>
 
 

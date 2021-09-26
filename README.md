@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Juju's Profile">, I'm Juju</h1>
 <h3 align="center"><i>Multipotentialite! Eagerly learning technology</i> </h3>
-<br/>
 
 ##  About Me🙋‍♂️
 
-<br/>
 
 - 🔭  An Energetic being who always buzz for success in things I do.
 
@@ -36,11 +34,6 @@
   
   <p align="center"><a href="https://github.com/Juju26/github-readme-stats" align="right"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="460px" height="250px"/></a></p>
   <br/>
-
-
-
-<br/>
-
 
 <a href="https://github.com/Juju26/github-readme-activity-graph"><img alt="Juju's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juju26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 

@@ -34,15 +34,27 @@
 </p>
 
   <br/>
-   <p align="center"><a href="https://github.com/Juju26/github-readme-stats" align="left" ><img alt="Juju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juju26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width='460px' height="250px"/></a></p>
-  
-  <p align="center"><a href="https://github.com/Juju26/github-readme-stats" align="right"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="460px" height="250px"/></a></p>
+  <details>
+<summary>More stats</summary>
+<br/>
+<br/>
+   <a href="https://github.com/Juju26/github-readme-stats" align="left" ><img alt="Juju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juju26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  height="192px"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Juju26/github-readme-stats" align="right"><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  height="192px"/></a>
   <br/>
+
+
+
+<br/>
+<br/>
 
 <a href="https://github.com/Juju26/github-readme-activity-graph"><img alt="Juju's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juju26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+</details>
+<br/>
 <br/>
 
 

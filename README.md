@@ -38,8 +38,8 @@
 <summary>More stats</summary>
 <br/>
 <br/>
-   <a href="https://github.com/Juju26/github-readme-stats" align="left" ><img alt="Juju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juju26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  height="192px"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Juju26/github-readme-stats" align="right"><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  height="192px"/></a>
+   <a href="https://github.com/Juju26/github-readme-stats" align="left" ><img alt="Juju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juju26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  height="190px"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Juju26/github-readme-stats" align="right"><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  height="190px"/></a>
   <br/>
 
 

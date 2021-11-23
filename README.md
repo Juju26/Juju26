@@ -12,7 +12,7 @@
 
 - 🔭  An Energetic being who always buzz for success in things I do.
 
-- 👨‍💻  Take time to Look at **[My Portfolio](https://github.com/Juju26/Myportfolio/)**
+- 👨‍💻  Take time to Look at **[My Portfolio](https://juju26.github.io/Myportfolio/)**
 
 - 📫  Reach me by **atshayakumarr26@gmail.com**
 

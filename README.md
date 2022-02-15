@@ -62,7 +62,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/atshayakumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/Jujuroyal26"><img src="https://icons8.com/icon/xWVjuc9hryql/twitter"/></a>
+<a href="https://twitter.com/Jujuroyal26"><img src="https://icons8.com/icon/xWVjuc9hryql/twitter.gif"/></a>
 <a href = "https://www.instagram.com/juz_call_me_ju/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
